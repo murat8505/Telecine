@@ -1,5 +1,6 @@
 [![Telecine](art/feature.png)][1]
 
+Screen video recorder, system window alert
 [![Get it on Google Play](art/en-play-badge.png)][1]
 
 
